@@ -16,7 +16,7 @@ This repository contains programs, libraries and interfaces to read and write Pi
 | Architecture | Latest published |
 |--------------|------------------|
 | linux-amd64 (`linux-64`) | ✅ `0.8.6` |
-| linux-arm64 (`linux-aarch64`) | ❌ not published |
+| linux-arm64 (`linux-aarch64`) | ✅ `0.8.6` |
 
 _As of the last feedstock render; the badges above are live._
 
