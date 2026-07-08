@@ -28,6 +28,7 @@ requirements:
   build:
     - {{ compiler('cxx') }}
     - {{ compiler('c') }}
+    - {{ stdlib('c') }}
 
     - make
     - rust
